@@ -60,3 +60,5 @@ The DFnT and IDFnT are similar in structure to the Discrete Fourier Transform (D
 "O. D. W. (2004). Fresnel Transform and Its Applications. Journal of Optical Society".
 
 "A. B. C. (2010). Signal Processing with Discrete Transforms. IEEE Transactions on Signal Processing".
+
+"Ahmad M, Shin SY. A Comparative Performance Analysis of OCDM and OFDM for Wireless Communications. 한국통신학회 학술대회논문집. 2023 Jun:1380-1".
