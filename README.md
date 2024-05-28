@@ -57,6 +57,8 @@ In these equations:
 
 The DFnT and IDFnT are similar in structure to the Discrete Fourier Transform (DFT) and its inverse, but they incorporate quadratic phase factors. These phase factors make the DFnT particularly suitable for applications involving wave propagation and diffraction patterns.
 
+## If you use the results or code from this repository in your research, please cite the following articles:
+
 "O. D. W. (2004). Fresnel Transform and Its Applications. Journal of Optical Society".
 
 "A. B. C. (2010). Signal Processing with Discrete Transforms. IEEE Transactions on Signal Processing".
