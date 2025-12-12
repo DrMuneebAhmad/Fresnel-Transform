@@ -19,7 +19,7 @@ DFnT(x)_m = \frac{1}{\sqrt{N}} \sum_{n=0}^{N-1} x_n \exp\left(\frac{j\pi}{N} (m 
 For an odd \( N \), the DFnT is given by:
 
 \[
-DFnT(x)_m = \frac{1}{\sqrt{N}} \sum_{n=0}^{N-1} x_n \exp\left(\frac{j\pi}{N} (m - 0.5 - n)^2 - \frac{j\pi}{4}\right)
+DFnT(x)_m = \frac{1}{\sqrt{N}} \sum_{n=0}^{N-1} x_n \exp\left(\frac{j\pi}{N} (m + 0.5 - n)^2 - \frac{j\pi}{4}\right)
 \]
 
 In these equations:
