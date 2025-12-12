@@ -24,7 +24,7 @@ function idFnT_output = myIDFnT(input_signal, varargin)
             if mod(N, 2) == 0  % For even N
                 phase = pi_over_N * (m - n)^2;
             else  % For odd N
-                phase = pi_over_N * (m + 0.5 - n)^2;
+                phase = pi_over_N * (m - 0.5 - n)^2;
             end
             idFnT_matrix(m, n) = (1 / sqrtN) * exp_j_pi_over_4 * exp(-1j * phase);
         end
@@ -32,4 +32,5 @@ function idFnT_output = myIDFnT(input_signal, varargin)
 
     % Applying the IDFnT
     idFnT_output = idFnT_matrix * input_signal;
+
 end
