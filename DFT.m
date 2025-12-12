@@ -33,3 +33,5 @@ function dFnT_output = myDFnT(input_signal, varargin)
     % Applying the DFnT
     dFnT_output = dFnT_matrix * input_signal;
 end
+
+
