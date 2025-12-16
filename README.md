@@ -62,3 +62,5 @@ The DFnT and IDFnT are similar in structure to the Discrete Fourier Transform (D
 "O. D. W. (2004). Fresnel Transform and Its Applications. Journal of Optical Society".
 
 "Ahmad M, Shin SY. A Comparative Performance Analysis of OCDM and OFDM for Wireless Communications. 한국통신학회 학술대회논문집. 2023 Jun:1380-1".
+
+"Ahmad, S., Ahmad, M., & Shin, S. Y. (2025). MIMO-OCDM-NOMA: Enhancing Spectral Efficiency and Robustness in High-Mobility, Interference-Prone Environments. Authorea Preprints".
