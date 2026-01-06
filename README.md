@@ -1,6 +1,6 @@
-# Discrete Fresnel Transform (DFnT) and Inverse DFnT (IDFnT) in MATLAB
+# Discrete Fresnel Transform (DFnT) and Inverse DFnT (IDFnT) in MATLAB and python
 
-This repository contains MATLAB implementations of the Discrete Fresnel Transform (DFnT) and its inverse (IDFnT). These transforms are useful in various signal processing and optical applications.
+This repository contains MATLAB and python implementations of the Discrete Fresnel Transform (DFnT) and its inverse (IDFnT). These transforms are useful in various signal processing and optical applications.
 
 ## Discrete Fresnel Transform (DFnT)
 
@@ -24,7 +24,7 @@ DFnT(x)_m = \frac{1}{\sqrt{N}} \sum_{n=0}^{N-1} x_n \exp\left(\frac{j\pi}{N} (m 
 
 In these equations:
 - \( x_n \) is the input signal.
-- \( N \) is the length of the input signal.
+- \( N \) is the length of the output signal.
 - \( m \) and \( n \) are indices.
 - \( j \) is the imaginary unit.
 
